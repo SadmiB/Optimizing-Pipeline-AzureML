@@ -11,7 +11,7 @@ This model is then compared to an Azure AutoML run.
 This datatset contains data about bank customers including their job, marital status, housing..etc. we seek to predict if a spcefic person is eligible to take a loan or not. Which mean that this is a calassifcation problem with two classes.
 
 **In 1-2 sentences, explain the solution:**
-The best performing model reached an **accuracy of  0.9119916760600018** with the hyperparameters of **max iterations eqaul 50** and **inverse regularization equal 50(Regulariation eqaul 0.02)**.
+The best performing model reached an **accuracy of  0.9119916760600018** with the hyperparameters of **max iterations eqaul 50** and **inverse regularization equal 50(Regularization equal 0.02)**.
 
 ![Hyperdrive accuracy](assets/hyperdrive_accuracy.png)
 
